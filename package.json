@@ -1,11 +1,11 @@
 {
   "private": true,
-  "name": "cara",
-  "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
+  "name": "saravana",
+  "description": "",
   "version": "0.2.15",
   "author": "LekoArts",
   "license": "0BSD",
-  "starter-name": "gatsby-starter-portfolio-cara",
+  "starter-name": "Saravana - Profile",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
